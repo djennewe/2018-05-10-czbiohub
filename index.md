@@ -280,6 +280,7 @@ and our administrator may contact you if we need any extra information.</h4>
   'tools/check' as well.
 {% endcomment %}
 
+{% comment %}
 <h2 id="setup">Setup</h2>
 
 <p>
@@ -756,6 +757,8 @@ and our administrator may contact you if we need any extra information.</h4>
   </div>
 </div> {% comment %} End of 'OpenRefine' section. {% endcomment %}
 
+{% endcomment %}
+
 {% comment %}
 <div id="vm">
   <h3>Virtual Machine</h3>
@@ -781,3 +784,40 @@ and our administrator may contact you if we need any extra information.</h4>
   </ol>
 </div>
 {% endcomment %}
+
+
+<h2 id="setup">Setup</h2>
+
+<p>
+To participate in a Data Carpentry workshop, you will need working copies of the 
+described software. Please make sure to install everything (or at least to download 
+the installers) before the start of your workshop. Participants should bring and use 
+their own laptops to insure the proper setup of tools for an efficient workflow 
+once you leave the workshop.
+<p>
+<strong>Mac users</strong>
+<ul>
+	<li><a href=https://www.java.com/en/download/>Java</a></li> 
+	<li><a href=https://filezilla-project.org/download.php?show_all=1>Filezilla</a></li> 
+	<li><a href=http://software.broadinstitute.org/software/igv/download>Integrative Genomics Viewer (IGV)</a></li> 
+        <li><a href=https://www.rstudio.com/products/rstudio/download/#download> RStudio </a></li>
+</ul>
+</p>
+<p>
+<strong>Windows users</strong>
+<ul>
+	<li><a href=http://www.putty.org/>Putty</a>   
+Download putty.exe.
+	<li><a href=https://www.java.com/en/download/>Java</a></li> 
+	<li><a href=https://filezilla-project.org/download.php?show_all=1>Filezilla</a></li> 
+	<li><a href=http://software.broadinstitute.org/software/igv/download>Integrative Genomics Viewer (IGV)</a></li> 
+        <li><a href=https://www.rstudio.com/products/rstudio/download/#download> RStudio </a></li>
+</ul>
+</p>
+
+<p>
+  We maintain a list of common issues that occur during installation as a reference for instructors
+  that may be useful on the
+  <a href = "https://github.com/swcarpentry/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
+</p>
+<hr/>
