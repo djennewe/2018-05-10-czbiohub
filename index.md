@@ -765,20 +765,20 @@ once you leave the workshop.
 <p>
 <strong>Mac users</strong>
 <ul>
-	<li><a href=https://www.java.com/en/download/>Java</a></li> 
-	<li><a href=https://filezilla-project.org/download.php?show_all=1>Filezilla</a></li> 
-	<li><a href=http://software.broadinstitute.org/software/igv/download>Integrative Genomics Viewer (IGV)</a></li> 
-        <li><a href=https://www.rstudio.com/products/rstudio/download/#download> RStudio </a></li>
+	<li><a href="https://www.java.com/en/download/">Java</a></li> 
+	<li><a href="https://filezilla-project.org/download.php?show_all=1">Filezilla</a></li> 
+	<li><a href="http://software.broadinstitute.org/software/igv/download>Integrative Genomics Viewer (IGV)"</a></li> 
+        <li><a href="https://www.rstudio.com/products/rstudio/download/#download> RStudio"</a></li>
 </ul>
 </p>
 <p>
 <strong>Windows users</strong>
 <ul>
-	<a href=http://www.putty.org/>Putty</a> Download putty.exe.
-	<li><a href=https://www.java.com/en/download/>Java</a></li> 
-	<li><a href=https://filezilla-project.org/download.php?show_all=1>Filezilla</a></li> 
-	<li><a href=http://software.broadinstitute.org/software/igv/download>Integrative Genomics Viewer (IGV)</a></li> 
-        <li><a href=https://www.rstudio.com/products/rstudio/download/#download> RStudio </a></li>
+	<a href="http://www.putty.org/>Putty"</a> Download putty.exe.
+	<li><a href="https://www.java.com/en/download/">Java</a></li> 
+	<li><a href="https://filezilla-project.org/download.php?show_all=1">Filezilla</a></li> 
+	<li><a href="http://software.broadinstitute.org/software/igv/download>Integrative Genomics Viewer (IGV)"</a></li> 
+        <li><a href="https://www.rstudio.com/products/rstudio/download/#download"> RStudio </a></li>
 </ul>
 </p>
 
